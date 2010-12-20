@@ -4,7 +4,7 @@
 
   <groupId>ch.geekomatic.servlet</groupId>
   <artifactId>geekomatic-servlet-utils</artifactId>
-  <version>0.0</version>
+  <version>0.1</version>
   <packaging>jar</packaging>
 
   <name>geekomatic-servlet-utils</name>
